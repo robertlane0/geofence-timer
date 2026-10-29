@@ -176,6 +176,8 @@ Do not assume that the Overpass API provides ready-to-render offline raster tile
 
 ## 6. User Experience
 
+Use the AI-generated UI mockup at [`ai-mockup.png`](ai-mockup.png) as the visual reference for layout, navigation, and styling. It shows the intended screens (home menu, download map area, download progress, downloaded maps, create geofence, geofences, schedules, and history) together with their empty, enabled/disabled, and inside/outside/unknown states. Treat it as design guidance: follow its structure and visual language, but prioritize usability, accessibility, and consistency with the requirements below where they conflict.
+
 Create a straightforward interface with the following main areas:
 
 - **Offline Maps:** Select regions, download map data, inspect download progress, and manage saved maps.
