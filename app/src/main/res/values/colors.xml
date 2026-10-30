@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#1B3041</color>
+    <color name="navy_dark">#132431</color>
+    <color name="navy_light">#29465A</color>
+    <color name="blue">#2F7DE1</color>
+    <color name="blue_dark">#2466BE</color>
+    <color name="blue_light">#E8F1FD</color>
+    <color name="green">#22A45D</color>
+    <color name="green_dark">#177A45</color>
+    <color name="green_light">#E4F6EC</color>
+    <color name="orange">#E88F1F</color>
+    <color name="orange_light">#FDF0DF</color>
+    <color name="purple">#825ABE</color>
+    <color name="purple_light">#F1EAFB</color>
+    <color name="red">#D34848</color>
+    <color name="red_dark">#A93232</color>
+    <color name="red_light">#FBE7E7</color>
+    <color name="amber">#B97400</color>
+    <color name="amber_light">#FFF4DF</color>
+    <color name="gray">#6B7885</color>
+    <color name="gray_light">#EEF1F4</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="border">#E4E8ED</color>
+    <color name="text_primary">#1C3041</color>
+    <color name="text_secondary">#5F6F7D</color>
+    <color name="text_muted">#8A97A3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="map_land">#F2EFE8</color>
+    <color name="scrim">#66000000</color>
+</resources>

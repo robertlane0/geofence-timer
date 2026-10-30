@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_download"
+            android:title="@string/offline_maps" />
+        <item
+            android:id="@+id/nav_geofences"
+            android:icon="@drawable/ic_pin"
+            android:title="@string/geofences" />
+        <item
+            android:id="@+id/nav_schedules"
+            android:icon="@drawable/ic_calendar"
+            android:title="@string/schedules" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+    </group>
+</menu>
